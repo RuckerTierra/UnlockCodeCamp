@@ -1,0 +1,25 @@
+/* css stylesheet */
+
+body {
+  background-color: peachpuff;
+  box-sizing: border-box;
+}
+
+div {
+  border-color: black;
+}
+
+#nameDiv {
+  float: left;
+}
+
+hr {
+  width: 50px;
+  text-align: left;
+}
+
+img {
+  width: 500px;
+  height: 350px;
+  background-color: purple;
+}
